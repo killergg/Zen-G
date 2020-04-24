@@ -1,0 +1,140 @@
+h1 {
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 5px;
+	border: 5px rgb(27, 80, 3) solid;
+	border-radius: 10px;
+	background-color: rgb(27, 80, 3) ;
+	font-family: 'Bangers', cursive;
+	height: 50PX;
+	font-size: 200%;
+
+ }
+ * {
+	font-family: 'Bangers', cursive;
+ }
+/* [title = "Cascading Style Sheets"] {
+color: blue; 
+}  */
+
+header > h2, h3 {
+margin-left: 8%;
+border: 5px rgb(55, 170, 2) solid;
+border-radius: 10px;
+
+background-color: rgb(55, 170, 2);
+}
+body {
+	background-image: url(_1110-696.jpg);
+}
+h3, h4, h5, h6,p {
+	margin-left: 8%;
+	margin-right: 8%;
+}
+p {
+	color: rgb(40, 156, 40) ;
+	font-size: 150%;
+}
+ul {
+	margin-left: 8%;
+}
+.wrapper {
+	grid-area: wrapper;
+	margin-left: 0%;
+	margin-right: 0%;
+}
+
+
+/* fhugrgeudhei */
+
+
+.select {
+text-align: center;
+}
+.archives {
+	text-align: center;
+}
+.resources {
+	text-align: center;
+}
+
+
+
+
+a {
+
+	color: rgb(255, 255, 255);
+
+
+	text-decoration: none;
+}
+footer {
+	text-align: center;
+	background-color: rgb(4, 136, 4);
+	border: 5px rgb(3, 78, 3) solid;
+	border-radius: 10px;
+	
+}
+footer > a {
+	margin-left: 5%;
+	margin-right: 5%;
+	color: black;
+	font-size: 150%;
+
+
+}
+.designer-name {
+	color: gray;
+
+
+	text-decoration-color: gray;
+}
+ul {
+	display: flex;
+	margin-left: 16%;
+	margin-right: 16%;
+}
+li {
+	margin-left: 2%;
+	margin-right: 2%;	
+}
+/* gjhrghi */
+
+
+.intro h2 {
+width: 21% ;
+}
+.intro h3 {
+	width: 21% ;
+	}
+	.main h2 {
+		width: 21% ;
+		}
+		.main h3 {
+			width: 21% ;
+			}
+.page-wrapper {
+justify-content: left;
+}
+.intro {
+	grid-area: intro;
+}
+.main {
+	grid-area: main;
+}
+.explanation {
+	grid-area: explanation;
+}
+.participation {
+	grid-area: participation;
+}
+.benefits {
+	grid-area: benefits;
+}
+.requirements {
+	grid-area: requirements;
+}
+aside {
+	display: inline;
+	justify-content: right;
+}
