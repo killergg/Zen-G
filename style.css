@@ -25,7 +25,7 @@ border-radius: 10px;
 background-color: rgb(55, 170, 2);
 }
 body {
-	background-image: url(_1110-696.jpg);
+	background: url(_1110-696.jpg);
 }
 h3, h4, h5, h6,p {
 	margin-left: 8%;
